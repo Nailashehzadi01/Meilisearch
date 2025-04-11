@@ -1,0 +1,26 @@
+.hero {
+  background: linear-gradient(135deg, #3e0077, #a54fff);
+  padding: 5rem 2rem;
+  text-align: center;
+  color: white;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.searchInput {
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+  width: 60%;
+  max-width: 400px;
+  font-size: 1rem;
+}
+
+.results {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
